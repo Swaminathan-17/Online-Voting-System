@@ -170,7 +170,4 @@ If not set, defaults will be used.
 ## License
 
 This project is for educational purposes.
-=======
-# Online-Voting-System
-A complete online voting system built with Flask, MongoDB, and JWT authentication.
->>>>>>> 13d0d9c46c82f553594b6011de5d014a09eb7e1e
+======
